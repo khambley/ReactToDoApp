@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App date={new Date()} />
   </React.StrictMode>,
   document.getElementById('root')
 );
