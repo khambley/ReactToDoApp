@@ -1,8 +1,8 @@
 ---
-description: From React project initialization
+description: From React initial project creation...
 ---
 
-# Readme2
+# React documentation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
